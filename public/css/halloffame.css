@@ -1,0 +1,46 @@
+html {
+	height:100%;
+}
+body {
+	margin:0;
+	padding:0;
+	}
+.name { font-family: Georgia,Palatino,Times,serif;
+		font-size: 24px;
+		text-align: center;
+		display: block }
+
+.ital { font-family: Georgia,Palatino,Times,serif;
+		font-size: 14px;
+		font-style: italic;
+		padding: 4px 0px;
+		text-align: center;
+		display: block }
+.title { font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+        font-size: 18px;
+		text-align: center;
+		padding: 4px 0px 12px 0px;
+		font-weight: bold;
+		display: block }
+.formTitle { font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+		font-size: 18px;
+		font-weight: bold;
+		color: #000000;
+		display: block;
+		margin-bottom: 12px }
+.desc { font-family: Arial, Verdana, sans-serif;
+        font-size: 12px;
+		padding: 4px 0px }
+.black { font-family: Arial, Verdana, sans-serif;
+        font-size: 12px;
+		color: #000000 }
+input, textarea { font-family: Arial, Verdana, sans-serif;
+        font-size: 12px;
+		color: #000000 }
+.small { font-family: Arial, Verdana, sans-serif;
+        font-size: 11px;
+		color: #554295 }
+.smBold { font-family: Arial, Verdana, sans-serif;
+        font-size: 12px;
+		font-weight: bold;
+		color: #554295 }
