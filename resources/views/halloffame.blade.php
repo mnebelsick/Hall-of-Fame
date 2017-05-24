@@ -26,7 +26,7 @@
 </div>
 <BR>
 <div style="overflow-x: scroll;">
-    <div style="height: 86vh;  min-width: 6237px; background-image: url(/images/background.jpg); background-repeat: repeat-x; background-attachment: scroll;">
+    <div style="height: 86vh;  min-width: 6237px; background-image: url(images/background.jpg); background-repeat: repeat-x; background-attachment: scroll;">
 
         <table>
         <tr>
