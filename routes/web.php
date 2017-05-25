@@ -14,13 +14,3 @@
 Route::get('/', 'InnovationsController@index');
 
 Route::post('/', 'InnovationsController@store');
-
-ROUTE::get('/innovations', function() {
-	return view('innovations');
-});
-
-/*
-Route::post('/', function () {
-    return view('process-form');
-});
-*/

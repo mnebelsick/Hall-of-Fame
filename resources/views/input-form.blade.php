@@ -1,7 +1,7 @@
 <TD><img src="images/shim.gif" width="175" height="1" alt="" /></TD>
 <TD>
 	<!-- ******************************* BEGIN ENTRY ******************************* -->
-	<form name="Hall-of-Fame" METHOD="POST" action="/" onSubmit="return ckFields(this);">
+	<form name="Hall-of-Fame" METHOD="POST" action="{{ action('InnovationsController@store') }}" onSubmit="return ckFields(this);">
 	{{ csrf_field() }}
 	<table cellpadding="3" cellspacing="0" border="0">
 	<TR valign="top"><TD align="right" nowrap class="black"></TD>

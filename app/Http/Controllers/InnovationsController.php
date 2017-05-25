@@ -44,7 +44,7 @@ class InnovationsController extends Controller
 
         $innovation->save();
 
-        return redirect('/');
+        return redirect()->action('InnovationsController@index');
 
     }
 
